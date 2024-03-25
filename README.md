@@ -9,7 +9,7 @@
 
 ```shell
 python3 -m pip install diffusers==0.21.* numpy torch torchvision matplotlib PIL accelerate datasets huggingface_hub tqdm
-
+```
 
 # Структура проекта
 Проект включает следующие ключевые компоненты:
