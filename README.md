@@ -32,5 +32,5 @@ python3 -m pip install diffusers==0.21.* numpy torch torchvision matplotlib PIL 
 [Icons50 Dataset on Kaggle](https://www.kaggle.com/datasets/danhendrycks/icons50/code)
 
 # Ссылка на юпитер ноутбук:
-[ipynb]()
+[ipynb](https://github.com/AlexPost72/Icon-generator/blob/main/generator_icon.ipynb)
 
